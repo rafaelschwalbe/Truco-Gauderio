@@ -1,0 +1,10 @@
+Download Netbeans + JDK
+http://www.oracle.com/technetwork/java/javase/downloads/jdk-7-netbeans-download-432126.html
+Instalei com suporte ao JUnit (Ferramenta para testes unitários)
+
+
+Controle de versão: Github (cadastro gratuito)
+	http://windows.github.com/
+URL do Repositório https://github.com/jonasgiehl/Truco-Gauderio
+
+Jogo do Truco Gaudério em Java, comunicando-se entre os jogadores através de Sockets
